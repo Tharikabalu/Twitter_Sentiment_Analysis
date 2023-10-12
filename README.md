@@ -1,6 +1,6 @@
 # Twitter_Sentiment_Analysis
-Classification of tweets into either positive or negative sentiments. This repository includes implementations of two machine learning algorithms for binary classification: Logistic Regression and Naive Bayes.
-**Training naïve Bayes**
+Classification of tweets into either positive or negative sentiments. This repository includes implementations of two machine learning algorithms for binary classification: Logistic Regression and Naive Bayes.<br>
+**Training naïve Bayes**<br>
 To train your naïve Bayes classifier, you have to perform the following steps:
 1) Get or annotate a dataset with positive and negative tweets
 2) Preprocess the tweets: process_tweet(tweet) ➞ [w1, w2, w3, ...]:
